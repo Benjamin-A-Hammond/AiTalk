@@ -1,0 +1,6 @@
+httpx
+ormsgpack
+pydantic
+dotenv
+websockets
+openai
